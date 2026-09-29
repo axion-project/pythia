@@ -5,11 +5,12 @@
   "version": "0.1.0",
   "readme": "readme.md",
   "icon": "icon.png",
+  "license": "Apache-2.0",
   "files": [],
   "minVersionCode": 290,
   "author": {
     "name": "Aedin Insight",
-    "email": "",
-    "github": ""
+    "email": "info@aedininsight.com",
+    "github": "https://github.com/axion-project/"
   }
 }
