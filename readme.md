@@ -15,3 +15,5 @@ Ask, Explain Active File, Review Active File, Refactor Selection, Generate Tests
 - Whole-file and selection edits refuse to apply if the file or selection changed meanwhile.
 - New files open as unsaved tabs; the model never chooses a path.
 - Keys and history live in this app's local storage only.
+
+License: [Apache-2.0](LICENSE)
