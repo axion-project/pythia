@@ -1,0 +1,15 @@
+{
+  "id": "com.aedin.pythia",
+  "name": "Pythia",
+  "main": "main.js",
+  "version": "0.1.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "author": {
+    "name": "Aedin Insight",
+    "email": "",
+    "github": ""
+  }
+}
